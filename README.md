@@ -67,6 +67,28 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Thanks to [Chris Courses] that helped in creating the game.
 
 
+###Installing
+
+To install and run the game locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kanotten/fighting-game.git
+
+  - Clone the code to you desired location in you local files. ( desktop, documents , workfolders etc ) 
+
+2. Navigate to the project directory
+    ```bash
+   cd fighting-game 
+ -  You should open the file from the folder/path you cloned the code to.
+
+## Feedback and contact
+ - Need to contact, please use: Kenneth.sheikh@hotmail.com
+
+
+
+
+
 
 
 
